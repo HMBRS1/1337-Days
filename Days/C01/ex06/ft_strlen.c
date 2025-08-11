@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hoberras <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: hmbrs    <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/20 09:07:18 by hoberras          #+#    #+#             */
 /*   Updated: 2025/07/20 09:10:16 by hoberras         ###   ########.fr       */
