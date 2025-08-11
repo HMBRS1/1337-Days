@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_div_mod.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hoberras <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: hmbrs    <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/20 08:50:19 by hoberras          #+#    #+#             */
 /*   Updated: 2025/07/20 08:52:13 by hoberras         ###   ########.fr       */
