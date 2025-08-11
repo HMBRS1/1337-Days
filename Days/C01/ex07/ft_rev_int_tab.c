@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_rev_int_tab.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hoberras <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: hmbrs	  <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/20 09:24:24 by hoberras          #+#    #+#             */
 /*   Updated: 2025/07/20 09:41:25 by hoberras         ###   ########.fr       */
